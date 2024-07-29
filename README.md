@@ -1,0 +1,1 @@
+Classic Movies is a streaming platform aiming to build a comprehensive database to manage information about movies, actors, directors, genres, reviewers, and ratings. This project includes the creation and optimization of the database schema to ensure efficient data retrieval and integrity.
